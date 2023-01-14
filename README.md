@@ -2,7 +2,7 @@
 
 ## Description
 
-A a GUI and commandline based tic-tac-toe game.
+A a GUI numerical tic-tac-toe and normal tic-tac-toe as well as a commandline based tic-tac-toe game.
 
 The game has functionality for 2 player to face against each other
 
